@@ -1,0 +1,18 @@
+console.log('Locate Numbers Badli');
+console.log('Google mail location- Badli && education registered number...');
+console.log('college name:-=Kasturba Polytechnic for Women&&name=first_name(priyanka) ?search=');
+console.log('python Tools are initialized.......\n');
+console.log('scanning number ::--- -----------');
+console.log('Number scanning is Found : --------');
+console.log('verify the path and connection has been  establised through http link');
+console.log('+Object Notation CommandNumberException At Line:1 Value Integer:1');
+console.log('Number is located in India......\n');
+console.log('9716077965 is located in Delhi......');
+console.log('HTTP NODE DISCONNECTION IS NOTICED ');
+console.log('+Object Notation CommandNumberException At Line:1 Value Integer:1\n');
+console.log('+Object Notation CommandNumberException At Line:1 Value Floating :1');
+console.log('Number is located in BADLI...........\n');
+console.log('Access Granted (+Object Http is connection restablished....)');
+console.log('time delayed:2d5h....please wait///');
+console.log('Please wait....');
+console.log('Number Found&saved=InternalStorage**number.txt');
